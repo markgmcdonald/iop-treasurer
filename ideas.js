@@ -36,17 +36,17 @@ window.IDEAS = [
     icon: "coins",
     title: "OneFund",
     blurb: "Continue to expand opportunities and available resources through the OneFund.",
-    mine: "Make sure it's available, and that people know about it.",
+    mine: "Make sure it's available and that people know about it: a start-of-semester push for applicants, consistent reminders, and a quicker turnaround time.",
     baton: "",
     es: {
       title: "OneFund",
       blurb: "Seguir ampliando las oportunidades y los recursos disponibles a través del OneFund.",
-      mine: "Asegurarme de que esté disponible y de que la gente lo conozca."
+      mine: "Asegurarme de que esté disponible y de que la gente lo conozca: un impulso al inicio del semestre para atraer solicitantes, recordatorios constantes y un tiempo de respuesta más rápido."
     },
     fr: {
       title: "OneFund",
       blurb: "Continuer d’élargir les opportunités et les ressources disponibles par le biais du OneFund.",
-      mine: "Veiller à ce qu’il soit disponible et à ce que les gens le connaissent."
+      mine: "Veiller à ce qu’il soit disponible et à ce que les gens le connaissent : une campagne en début de semestre pour attirer des candidats, des rappels réguliers et des délais de réponse plus courts."
     }
   },
   {
@@ -54,17 +54,17 @@ window.IDEAS = [
     icon: "briefcase",
     title: "Director's Internships",
     blurb: "Expand Director's Internships across various fields and different locations.",
-    mine: "Work with the DICS and IOP Staff to expand our influence and your opportunity.",
+    mine: "Work with the DICS and IOP Staff to add more placements across sectors of public service and in a wider variety of locations, in and around the major hubs.",
     baton: "",
     es: {
       title: "Director's Internships",
       blurb: "Ampliar las Director's Internships a diversos campos y a distintos lugares.",
-      mine: "Trabajar con el DICS y el personal del IOP para ampliar nuestra influencia y tus oportunidades."
+      mine: "Trabajar con el DICS y el personal del IOP para sumar más plazas en distintos sectores del servicio público y en una mayor variedad de lugares, dentro y alrededor de los principales centros."
     },
     fr: {
       title: "Director's Internships",
       blurb: "Étendre les Director's Internships à des domaines variés et à différents lieux.",
-      mine: "Travailler avec le DICS et le personnel de l’IOP pour étendre notre influence et vos possibilités."
+      mine: "Travailler avec le DICS et le personnel de l’IOP pour ajouter davantage de places dans différents secteurs du service public et dans une plus grande variété de lieux, dans et autour des grands pôles."
     }
   },
   {
@@ -72,35 +72,35 @@ window.IDEAS = [
     icon: "chart",
     title: "*Workable* budgets for every program",
     blurb: "Keep working toward equitable budgets for all programs, coalitions, and other student-forward initiatives.",
-    mine: "Make sure the budgets actually work, using the same budget-case work that won an 83% SAF increase.",
+    mine: "Build budgets that let every program host the events and sessions it needs to thrive, using the same budget-case work that won an 83% SAF increase.",
     baton: "",
     es: {
       title: "Presupuestos *viables* para cada programa",
       blurb: "Seguir trabajando por presupuestos equitativos para todos los programas, coaliciones y demás iniciativas que ponen a los estudiantes en primer lugar.",
-      mine: "Asegurarme de que los presupuestos realmente funcionen, recurriendo al mismo trabajo de argumentación presupuestaria que logró un aumento del 83% en las asignaciones de la Cuota de Actividades Estudiantiles."
+      mine: "Construir presupuestos que permitan a cada programa organizar los eventos y sesiones que necesita para prosperar, recurriendo al mismo trabajo de argumentación presupuestaria que logró un aumento del 83% en las asignaciones de la Cuota de Actividades Estudiantiles."
     },
     fr: {
       title: "Des budgets *viables* pour chaque programme",
       blurb: "Continuer à œuvrer pour des budgets équitables pour tous les programmes, coalitions et autres initiatives qui placent les étudiants au premier plan.",
-      mine: "Veiller à ce que les budgets fonctionnent réellement, en m’appuyant sur le même travail d’argumentaire budgétaire qui a permis une hausse de 83 % des allocations issues des frais d’activités étudiantes."
+      mine: "Construire des budgets qui permettent à chaque programme d’organiser les événements et les séances dont il a besoin pour s’épanouir, en m’appuyant sur le même travail d’argumentaire budgétaire qui a permis une hausse de 83 % des allocations issues des frais d’activités étudiantes."
     }
   },
   {
     kind: "continuing",
     icon: "book",
     title: "The Funding Guide",
-    blurb: "Expand on how funding is disbursed so it's more transparent.",
-    mine: "Maintain the pragmatism that lets funding be applied for and stay abundant.",
+    blurb: "Keep explaining how funding is disbursed, as openly as I responsibly can.",
+    mine: "Keep the guide current, explain decisions plainly, and say so when something can't be shared, while keeping the pragmatism that lets funding be applied for and stay abundant.",
     baton: "",
     es: {
       title: "La Guía de Financiamiento",
-      blurb: "Ampliar la explicación de cómo se distribuye el financiamiento, para que sea más transparente.",
-      mine: "Mantener el pragmatismo que permite solicitar el financiamiento y que este siga siendo abundante."
+      blurb: "Seguir explicando cómo se distribuye el financiamiento, con la mayor apertura que pueda de manera responsable.",
+      mine: "Mantener la guía al día, explicar las decisiones con claridad y decir abiertamente cuando algo no se pueda compartir, sin perder el pragmatismo que permite solicitar el financiamiento y que este siga siendo abundante."
     },
     fr: {
       title: "Le guide de financement",
-      blurb: "Approfondir l’explication de la façon dont les financements sont distribués, pour plus de transparence.",
-      mine: "Garder le pragmatisme qui permet de demander des financements et de les maintenir abondants."
+      blurb: "Continuer d’expliquer comment les financements sont distribués, aussi ouvertement que je peux le faire de manière responsable.",
+      mine: "Tenir le guide à jour, expliquer les décisions simplement et dire clairement quand quelque chose ne peut pas être partagé, tout en gardant le pragmatisme qui permet de demander des financements et de les maintenir abondants."
     }
   },
 
@@ -191,19 +191,19 @@ window.IDEAS = [
     icon: "house",
     title: "Washington IOP House",
     blurb: "A home base for interns and anyone in the IOP spending the summer in DC.",
-    now: "The interest is there. The problem is consistent motivation to achieve the final output.",
-    later: "Expand the IOP summer community to other service hubs, meeting students where they are rather than limiting it to the largest concentration.",
+    now: "Within my first month, survey interested students on who would use it and what they need, then bring SAC a costed proposal in time for summer planning.",
+    later: "If the numbers work, run it for a summer, then expand the IOP summer community to other service hubs, meeting students where they are rather than limiting it to the largest concentration.",
     es: {
       title: "Casa del IOP en Washington",
       blurb: "Una base para los pasantes y para cualquier persona del IOP que pase el verano en DC.",
-      now: "El interés existe. El problema es mantener la motivación constante para lograr el resultado final.",
-      later: "Ampliar la comunidad de verano del IOP a otros centros de servicio público, encontrándonos con los estudiantes donde están en lugar de limitarla a la mayor concentración."
+      now: "En mi primer mes, encuestar a los estudiantes interesados para saber quiénes lo usarían y qué necesitan, y luego presentar al SAC una propuesta con costos a tiempo para la planificación del verano.",
+      later: "Si los números funcionan, ponerlo en marcha durante un verano y luego ampliar la comunidad de verano del IOP a otros centros de servicio público, encontrándonos con los estudiantes donde están en lugar de limitarla a la mayor concentración."
     },
     fr: {
       title: "Maison de l’IOP à Washington",
       blurb: "Un point d’ancrage pour les stagiaires et toute personne de l’IOP qui passe l’été à Washington (DC).",
-      now: "L’intérêt est là. Le problème, c’est de maintenir la motivation nécessaire pour aboutir au résultat final.",
-      later: "Étendre la communauté estivale de l’IOP à d’autres pôles de service public, en allant à la rencontre des étudiants là où ils se trouvent plutôt que de la limiter à la plus grande concentration."
+      now: "Dans mon premier mois, sonder les étudiants intéressés pour savoir qui l’utiliserait et de quoi ils ont besoin, puis présenter au SAC une proposition chiffrée à temps pour la planification de l’été.",
+      later: "Si les chiffres tiennent la route, le lancer pour un été, puis étendre la communauté estivale de l’IOP à d’autres pôles de service public, en allant à la rencontre des étudiants là où ils se trouvent plutôt que de la limiter à la plus grande concentration."
     }
   }
 ];

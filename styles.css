@@ -343,9 +343,12 @@ h1,h2,h3{margin:0;text-wrap:balance}
   .stat{padding:22px 18px 10px}
   .sign{font-size:34px}
   .titleline .display{font-size:24px}
-  .btn-email{font-size:13px;padding:11px 14px}
+  .cta-small .btn-email{font-size:13px;padding:11px 14px}
   .reach-num{font-size:32px}
 }
+/* Narrow phones (360px and under): keep the whole email address on one line on its button */
+@media (max-width:400px){.cta-small .btn-email{font-size:12px;padding:11px 8px;letter-spacing:0}}
+@media (max-width:340px){.cta-small .btn-email{font-size:11px;padding:10px 6px}}
 @media (prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
   *{transition:none !important}

@@ -60,6 +60,7 @@ window.I18N = {
     "nav.voice": "Tu voz",
     "nav.vote": "Vota",
 
+    "hero.h1": "Mark McDonald para tesorero del IOP",
     "hero.hook": "El financiamiento está ahí, y quiero que lo tengas.",
     "hero.lede": "Soy <strong>Mark McDonald</strong>, estudiante de tercer año en Currier y candidato a tesorero del IOP. Pongo la experiencia por delante: armé el caso presupuestario y conseguí los fondos. Pero mi trabajo no es decidir lo que necesitas. Es averiguarlo y luchar por ello.",
     "hero.btn1": "Experiencia",
@@ -201,6 +202,7 @@ window.I18N = {
     "nav.voice": "Votre voix",
     "nav.vote": "Votez",
 
+    "hero.h1": "Mark McDonald, candidat au poste de trésorier de l’IOP",
     "hero.hook": "Le financement est là, et je veux que vous en profitiez.",
     "hero.lede": "Je suis <strong>Mark McDonald</strong>, étudiant en troisième année à Currier et candidat au poste de trésorier de l’IOP. Je mise sur l’expérience : j’ai bâti l’argumentaire budgétaire et obtenu les fonds. Mais mon rôle n’est pas de décider de ce dont vous avez besoin. C’est de le découvrir, puis de me battre pour l’obtenir.",
     "hero.btn1": "Expérience",
